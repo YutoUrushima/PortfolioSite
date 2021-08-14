@@ -10,14 +10,16 @@ You can't see this Website online and can look at it here.
 
 # Features
 
-languages
+** Languages **
 - HTML
 - CSS
 - jQuery(JavaScript)
+
+# Note
+
+Operating environment : Google Chrome 1366px
 
 # Author
 
 * Yuto Urushima
 * Twitter : https://twitter.com/developer_japan
-
-Thank you!
