@@ -10,7 +10,7 @@ You can't see this Website online and can look at it here.
 
 # Features
 
-** Languages **
+**Languages**
 - HTML
 - CSS
 - jQuery(JavaScript)
